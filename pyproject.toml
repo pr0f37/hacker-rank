@@ -1,0 +1,13 @@
+[project]
+name = "hacker-rank"
+version = "0.1.0"
+description = "Recreational programming challenges from HackerRank"
+readme = "README.md"
+authors = [{ name = "pr0f37 🚀", email = "adam.nowik@gmail.com" }]
+requires-python = ">=3.13"
+dependencies = []
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
